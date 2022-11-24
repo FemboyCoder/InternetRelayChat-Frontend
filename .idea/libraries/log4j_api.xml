@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="log4j api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/log4j-api-2.19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libraries/log4j-api-2.19.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
